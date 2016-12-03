@@ -1,0 +1,12 @@
+setup.py
+bookscraper/__init__.py
+bookscraper/items.py
+bookscraper/pipelines.py
+bookscraper/settings.py
+bookscraper/spiders/BookScraper.py
+bookscraper/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
