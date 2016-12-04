@@ -1,3 +1,0 @@
-[scrapy]
-settings = bookscraper.settings
-
