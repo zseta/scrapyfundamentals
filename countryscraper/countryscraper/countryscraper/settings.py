@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'countryscraper.spiders'
 #
 ITEM_PIPELINES = {
         'countryscraper.pipelines.JsonPipeline': 300,
-        'countryscraper.pipelines.CsvPipeline': 300,
+        'countryscraper.pipelines.CsvPipeline': 301,
 }
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
